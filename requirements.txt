@@ -1,0 +1,4 @@
+yfinance==1.5.1
+python-telegram-bot==21.7
+schedule==1.2.2
+python-dotenv==1.0.1
